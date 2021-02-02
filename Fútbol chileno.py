@@ -6,9 +6,9 @@
 
 import pandas as pd
 import numpy as np
-df1 = pd.read_excel('C:\\Users\\tomaa\\Desktop\\Tomás\\Fútbol chileno.xlsx', sheet_name='2019')
-df2 = pd.read_excel('C:\\Users\\tomaa\\Desktop\\Tomás\\Fútbol chileno.xlsx', sheet_name='2020')
-df3 = pd.read_excel('C:\\Users\\tomaa\\Desktop\\Tomás\\Fútbol chileno.xlsx', sheet_name='Partidos')
+df1 = pd.read_excel('Fútbol chileno.xlsx', sheet_name='2019')
+df2 = pd.read_excel('Fútbol chileno.xlsx', sheet_name='2020')
+df3 = pd.read_excel('Fútbol chileno.xlsx', sheet_name='Partidos')
 df_1 = df1.to_numpy()
 df_2 = df2.to_numpy()
 df_3 = df3.to_numpy()
