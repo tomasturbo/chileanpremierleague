@@ -1,0 +1,4 @@
+Este código calcula la tabla de posiciones y la tabla de promedios del campeonato masculino de primera división del fútbol chileno 2020.
+La tabla base era la del día sábado 30 de enero del 2021 antes de que se jugara el partido entre O'higgins y U. Católica.
+Para actualizar la tabla hay que insertar un resultado en la tercera hoja del excel adjunto, donde aparecen todos los partidos restantes del campeonato, 
+y luego ejecutar el código de python que aparece ahí.
